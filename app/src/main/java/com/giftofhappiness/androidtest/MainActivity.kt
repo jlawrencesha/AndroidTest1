@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         var name =  "jonnyB"
+        var fun = "I'm having fun."
     }
 }
