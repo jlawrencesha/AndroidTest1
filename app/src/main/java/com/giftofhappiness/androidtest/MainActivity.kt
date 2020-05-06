@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         var name =  "jonnyB"
         var fun = "I'm having fun."
+        var occupation = "developer"
     }
 }
